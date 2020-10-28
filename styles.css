@@ -7,10 +7,72 @@ color: red;
 
 }
 
+html{
+
+    background-color: lightgray;
+}
+
+b{
+    color: red;
+}
+
+div.headerElements{
+   
+    text-align: center;
+    vertical-align: middle;
+}
+
+.head{
+
+    font-size: 30px;
+
+
+}
+
+img{
+width: 150px;
+height: auto;
+border: 3px solid black;
+
+
+
+
+}
+
+
+table{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top:50px;
+    border-spacing: 30px;
+    
+}
+
+/* div{
+    background-color: lightgray;
+
+
+} */
 .one{
 
-    width: 300px;
-    border: 1px solid black;
+    width: 400px;
+    border: 3px solid black;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-right: 80px;
+    background-color:grey;
+    color: white;
+
+
+}
+
+.head {
+
+    margin-right:50px;
+    padding-right:50px;
+    
 
 
 }
